@@ -1,6 +1,6 @@
-<h1> Sitema de registro</h1>
-- Estado del proyecto: En construccion
+# Alura-challengeONE-Encriptador
+Aplicación Web que permite encriptar texto.
 
-para ejecutar el sistema, deber poner:
+Pagina desarrollada con tecnología HTML, CSS y JavaScript, cuya función es encriptar y desencriptar un texto, teniendo en consideración ciertas reglas a cumplir.
 
-```npm instact react```
+La aplicación forma parte del primer Challenge propuesto por Alura Latam para las capacitaciones presentes en el programa elaborado por Oracle Next Education (ONE).
